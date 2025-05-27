@@ -145,9 +145,8 @@ A polished **one-page PDF** report ideal for recruiters and managers:
 
 This project is part of my broader mission to apply **data analytics to real-world industry challenges**. I'm actively building a professional portfolio that combines technical skill with business thinking.
 
-📬 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📁 Portfolio: [yourwebsite.com]  
-📧 Email: [youremail@example.com]
+📬 [LinkedIn](https://www.linkedin.com/in/sunilreddy-data-analyst/)   
+📧 Email: sunilkumareddy8@gmail.com
 
 ---
 
